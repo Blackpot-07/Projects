@@ -1,0 +1,1 @@
+a file management system that keeps in check the reader writer problem using the concepts of data structures
